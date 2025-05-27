@@ -20,11 +20,18 @@
 
 li {
   list-style-type: none;
+  font-size: larger;
+  font-weight: 500;
 }
 
 h1,
 h2,
+h3,
 .point-ulist,
 li {
   margin: 0.5rem 0;
+}
+
+.select-box {
+  padding: 1rem;
 }
